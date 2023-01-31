@@ -1,0 +1,15 @@
+C:\xampp\htdocs\AbstraindoCelularDio\obj\Debug\net6.0\DesafioPOO.csproj.AssemblyReference.cache
+C:\xampp\htdocs\AbstraindoCelularDio\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\AbstraindoCelularDio\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\xampp\htdocs\AbstraindoCelularDio\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+C:\xampp\htdocs\AbstraindoCelularDio\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\AbstraindoCelularDio\bin\Debug\net6.0\DesafioPOO.exe
+C:\xampp\htdocs\AbstraindoCelularDio\bin\Debug\net6.0\DesafioPOO.deps.json
+C:\xampp\htdocs\AbstraindoCelularDio\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+C:\xampp\htdocs\AbstraindoCelularDio\bin\Debug\net6.0\DesafioPOO.dll
+C:\xampp\htdocs\AbstraindoCelularDio\bin\Debug\net6.0\DesafioPOO.pdb
+C:\xampp\htdocs\AbstraindoCelularDio\obj\Debug\net6.0\DesafioPOO.dll
+C:\xampp\htdocs\AbstraindoCelularDio\obj\Debug\net6.0\refint\DesafioPOO.dll
+C:\xampp\htdocs\AbstraindoCelularDio\obj\Debug\net6.0\DesafioPOO.pdb
+C:\xampp\htdocs\AbstraindoCelularDio\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+C:\xampp\htdocs\AbstraindoCelularDio\obj\Debug\net6.0\ref\DesafioPOO.dll
